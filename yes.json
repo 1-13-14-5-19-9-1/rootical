@@ -1,5 +1,21 @@
-"employees":[
-  {"firstName":"John", "lastName":"Doe"},
-  {"firstName":"Anna", "lastName":"Smith"},
-  {"firstName":"Peter", "lastName":"Jones"}
+//make this a sub array
+"determiner":[
+  {"the":"poc"},
+  {"this":"poce"},
+  {"that":"poca"},
+  {"these":"pocas"},
+  {"those":"pocase"} 
+]
+
+"main":[
+  {"alphabet":"q, w, e, r, t, y, u, I, o, p, a, s, d, f, g, h, j, k, l, z, x, c, v, b, n, m"},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+ 
 ]
